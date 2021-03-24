@@ -5,7 +5,8 @@
   "main": "./src/assets/js/main.js",
   "scripts": {
     "dev": "webpack-dev-server --open",
-    "build": "webpack"
+    "build": "webpack",
+    "hola": ""
   },
   "author": "Gonzalo Fleming",
   "license": "MIT",
@@ -27,17 +28,5 @@
   },
   "dependencies": {
     "@babel/polyfill": "^7.8.7"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/gonzafg2/Template-Proyectos-No-VueJS.git"
-  },
-  "keywords": [
-    "babel",
-    "webpack"
-  ],
-  "bugs": {
-    "url": "https://github.com/gonzafg2/Template-Proyectos-No-VueJS/issues"
-  },
-  "homepage": "https://github.com/gonzafg2/Template-Proyectos-No-VueJS#readme"
+  }
 }
